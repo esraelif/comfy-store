@@ -1,6 +1,7 @@
-import React from 'react';
+import { Link, useLoaderData } from 'react-router-dom';
 
 const ProductsGrid = () => {
+    const { products } = useLoaderData()
     return (
         <div>
 
