@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/esraelif/comfy-store/blob/main/src/assets/comfy.gif)
 
 #Step (1) - Setup
 create vite project with tailwind
