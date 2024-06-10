@@ -1,3 +1,5 @@
+![]()
+
 #Step (1) - Setup
 create vite project with tailwind
 
